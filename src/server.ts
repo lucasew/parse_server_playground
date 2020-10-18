@@ -1,3 +1,5 @@
+#!/usr/bin/env ts-node-script
+
 const banner = `
 ICAgICAgICAgICAgIGAuLTovLy8vLy86LS4uYCAgICAgICAgICAgIAogICAgICAgICBgOi9vb29v
 b29vb29vb29vb29vKzouYCAgICAgICAgCiAgICAgIGA6K29vb29vb29vb29vb29vb29vb29vb28r

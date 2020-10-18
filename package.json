@@ -3,6 +3,7 @@
   "description": "A all in one command to run parse, its graphql module and its playground",
   "version": "0.1.0",
   "main": "src/index.ts",
+  "bin": "src/server.ts",
   "license": "MIT",
   "scripts": {
     "start": "ts-node-dev src/server.ts",
